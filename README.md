@@ -25,5 +25,8 @@ Envía datos por MQTT a Ubidots y por HTTP al servidor Node.js.
 - Humedad: 60% a 80%
 
 ## Links
+- 🌐 Web pública: https://orchid-sense-production.up.railway.app
+
 - Servidor Node.js: https://github.com/mariapereyradv/orchid-sense
+
 - Dashboard Ubidots: [https://stem.ubidots.com/app/dashboards/public/dashboard/w0K5jdMZFRfRwIeHLE-owXdsFvE381d6?navbar=true&contextbar=false&layersBar=false]
