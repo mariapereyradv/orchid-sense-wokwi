@@ -26,4 +26,4 @@ Envía datos por MQTT a Ubidots y por HTTP al servidor Node.js.
 
 ## Links
 - Servidor Node.js: https://github.com/mariapereyradv/orchid-sense
-- Dashboard Ubidots: [pegá el link de Ubidots]
+- Dashboard Ubidots: [https://stem.ubidots.com/app/dashboards/public/dashboard/w0K5jdMZFRfRwIeHLE-owXdsFvE381d6?navbar=true&contextbar=false&layersBar=false]
